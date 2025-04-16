@@ -1,3 +1,5 @@
+### Gerser二次下游分支版本
+这是Geyser最终的优化版本，旨在剔除使用authlib-injector进行外置登录时无用的Microsoft登录按钮，感谢@Shanwer提供的仓库代码，以下是上游一级仓库的原文指引。如需更新最新构建，可以通过主页联系方式通知我，感谢大家的支持！
 ### 下载须知:
 这是Geyser的非官方版本，旨在恢复了不安全的mojang账号登录功能以提供Authlib-injector支持，该Repo使用GitHub Action与Upstream每日定时同步以保证源代码最新，但由于Action的限制，不能做到同步代码后自动构建，需要更新可以自行clone编译或者踢我一下来开一个Action的手动构建。我自己也是服主，所以一般基岩协议版本更新的时候我都会在那构建一下。  
 
